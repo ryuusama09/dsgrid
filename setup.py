@@ -11,7 +11,7 @@ setuptools.setup(
     author_email="ryuusama2002@gmail.com",
     license="Apache",
     keywords = "docker selenium grid firefox phantomjs",
-    url="https://github.com/ryuusama09/dsgrid",
+    url="https://github.com/ryuusama09/Dgrids",
     entry_points = {
         'console_scripts': [
             'dsgrid = dsgrid.shell:main'
